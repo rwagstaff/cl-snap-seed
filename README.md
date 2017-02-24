@@ -15,13 +15,13 @@ From your command line or git bash, clone the repository by running
 
 or Download from [https://github.com/rwagstaff/cl-snap-seed/archive/master.zip](https://github.com/rwagstaff/cl-snap-seed/archive/master.zip)
 
-Navigate to the package.json directory and run **npm install** then **npm start**. You should see message Starting game Snap, you can edit the src/app.js file to complete the test. To recompile from ES6 to ES5 run the command **npm run build**
+Navigate to the package.json directory and run **npm install** then **npm start**. You should see message *Starting game Snap*, you can edit the src/app.js file to complete the test. To recompile from ES6 to ES5 run the command **npm run build**
 
 # Scenario
 
 This test is intended to help us gauge your competency with JavaScript as well as how you design/structure your code.
  
-Please attempt the following, but do not spend more than 90 minutes on it. It doesn't matter if you complete the task or not; just do as much as you can in the time allowed. Once you've completed the test and sent your source code back, we'd appreciate it if you could follow it up with some notes on how you thought the test went and anything you'd do differently, given more time.
+Please attempt the following, but do not spend more than **90 minutes** on it. It doesn't matter if you complete the task or not; just do as much as you can in the time allowed. Once you've completed the test and sent your source code back, we'd appreciate it if you could follow it up with some notes on how you thought the test went and anything you'd do differently, given more time.
  
 When complete just zip the source code and send (please reply all). Please note when sending via gmail/Hotmail, any files (or zips containing files) with the extension .js will be blocked. Please rename them before sending 
 
