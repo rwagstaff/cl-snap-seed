@@ -2,7 +2,7 @@
 
 # Prerequisites 
 
-Node Js v.4.4.7 or higher [https://nodejs.org/en/](https://nodejs.org/en/)
+Node Js v.6.6.0 or higher [https://nodejs.org/en/](https://nodejs.org/en/)
 
 
 # Getting Started
@@ -15,7 +15,7 @@ From your command line or git bash, clone the repository by running
 
 or Download from [https://github.com/rwagstaff/cl-snap-seed/archive/master.zip](https://github.com/rwagstaff/cl-snap-seed/archive/master.zip)
 
-Navigate to the package.json directory and run **npm install** then **npm start**. You should see message *Starting game Snap*, you can edit the src/app.js file to complete the test. To recompile from ES6 to ES5 run the command **npm run build**
+Navigate to the package.json directory and run **npm install** then **npm start**. You should see message *Starting game Snap*, you can edit the src/app.js file to complete the test.
 
 # Scenario
 
