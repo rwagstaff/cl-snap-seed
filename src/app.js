@@ -1,10 +1,17 @@
 'use strict';
 
+/**
+ * Imports. Feel free to add more if needed
+ */
+
 const _ = require('lodash');
 const prompt = require('prompt');
 const Game = require('./Game');
 
-
+/**
+ * The validation schema for the user prompt
+ * https://github.com/flatiron/prompt
+ */
 const schema = {
     properties: {
         decks: {
@@ -22,7 +29,9 @@ const schema = {
     }
 };
 
-
+/**
+ * Handle the user prompt and start the game
+ */
 prompt.get(schema, function (err, result) {
     console.log('Command-line input received:');
 
