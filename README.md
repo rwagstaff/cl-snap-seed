@@ -28,7 +28,7 @@ When complete just zip the source code and send (please reply all). Please note 
 https://nakedsecurity.sophos.com/2017/02/17/gmail-now-blocks-all-javascript-email-attachments/
 
  
-Simulate a simplified game of "Snap!" between two computer players using N packs of cards (standard 52 card, 4 suit packs). The "Snap!" matching condition can be the face value of the card, the suit, or both. The program should ask:
+Simulate a simplified game of "Snap!" between two computer players using N packs of cards (standard 52 card, 4 suit packs). The "Snap!" matching condition can be the face value of the **card**, the **suit**, or **both**. The program should ask:
  
 (i)                  How many packs to use (i.e. define N)
 (ii)                Which of the three matching conditions to use
