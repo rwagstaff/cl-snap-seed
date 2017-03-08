@@ -2,13 +2,13 @@
 
 class Game {
 
-    constructor(noOfDesks, matchingMode) {
-        this.noOfDesks = noOfDesks;
+    constructor(decks, matchingMode) {
+        this.decks = decks;
         this.matchingMode = matchingMode;
     }
 
     start() {
-        console.log(`Starting game with ${this.noOfDesks} desks and matching mode ${this.matchingMode}`);
+        console.log(`Starting game with ${this.decks} desks and matching mode ${this.matchingMode}`);
     }
 }
 
