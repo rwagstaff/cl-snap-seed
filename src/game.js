@@ -8,7 +8,7 @@ class Game {
     }
 
     start() {
-        console.log(`Starting game with ${this.noOfDesks} macthing mode ${this.matchingMode}`);
+        console.log(`Starting game with ${this.noOfDesks} desks and matching mode ${this.matchingMode}`);
     }
 }
 
