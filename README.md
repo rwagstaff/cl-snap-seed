@@ -28,7 +28,7 @@ When the test is complete please zip the source code and a store in a public fil
 
 https://nakedsecurity.sophos.com/2017/02/17/gmail-now-blocks-all-javascript-email-attachments/
  
-Then **Reply All** to the email adding the could storage url to the email.
+Then **Reply All** to the email adding the cloud storage url to the email.
 
 # Scenario
 
